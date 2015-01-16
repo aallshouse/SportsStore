@@ -1,0 +1,7 @@
+2014-12-30 12:56:59,794 [1] DEBUG HibernatingRhinos.Profiler.Client.App [(null)] - Profiler initialized. Build: 3019
+2014-12-30 12:57:02,936 [1] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - Could not find license file: C:\Users\aallshouse.MATRIXPLUS\AppData\Local\EntityFramework Profiler\license.xml
+2014-12-30 12:57:24,141 [1] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 01/31/2015 00:00:00
+2014-12-30 12:57:24,277 [1] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for EntityFramework Profiler
+2014-12-30 12:57:24,506 [1] WARN  Rhino.Licensing.AbstractLicenseValidator [(null)] - License expiration date is 01/31/2015 00:00:00
+2014-12-30 12:57:24,575 [1] DEBUG Rhino.Licensing.AbstractLicenseValidator [(null)] - License accepted for EntityFramework Profiler
+2014-12-30 12:57:27,061 [18] INFO  HibernatingRhinos.Profiler.Client.Infrastructure.AutoUpdate.ProfilerAutoUpdate [(null)] - Checking for updates...
